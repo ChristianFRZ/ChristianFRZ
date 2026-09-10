@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christian Franco Ramírez
+# Hi, I'm Christian Franco Ramírez
 
 ### Computer Engineering Student @ UNAM
 
@@ -8,7 +8,7 @@ My experience includes software development, data analysis, databases, embedded 
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Languages
 
@@ -36,9 +36,9 @@ My experience includes software development, data analysis, databases, embedded 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ✈️ UNAM AeroDesign · Data Acquisition System
+### UNAM AeroDesign · Data Acquisition System
 
 Development of a **Data Acquisition System (DAS)** for aircraft applications, focused on acquiring, processing, transmitting, storing, and analyzing flight data.
 
@@ -46,7 +46,7 @@ Development of a **Data Acquisition System (DAS)** for aircraft applications, fo
 
 ---
 
-### 📊 Flight Data Analysis
+### Flight Data Analysis
 
 Data processing and analysis for flight information, including visualization, signal processing, and anomaly detection.
 
@@ -54,7 +54,7 @@ Data processing and analysis for flight information, including visualization, si
 
 ---
 
-### 🗄️ Database Systems
+### Database Systems
 
 Design and implementation of relational databases, including normalization, SQL queries, triggers, and database architecture.
 
@@ -62,7 +62,7 @@ Design and implementation of relational databases, including normalization, SQL 
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Distributed Systems
 * Cryptography
@@ -73,7 +73,7 @@ Design and implementation of relational databases, including normalization, SQL 
 
 ---
 
-## 📈 GitHub
+## GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianFRZ\&show_icons=true\&hide_border=true\&theme=transparent)
 
@@ -81,7 +81,7 @@ Design and implementation of relational databases, including normalization, SQL 
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/christian-franco-ramírez-baa013360)
 [![Email](https://img.shields.io/badge/Email-555555?style=flat-square\&logo=gmail\&logoColor=white)](mailto:christian.francoramirez@gmail.com)
