@@ -36,8 +36,8 @@ My experience includes software development, data analysis, databases, embedded 
 
 ---
 <div align="center">
-  <a href="https://codeforces.com/profile/KrostFR>
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeusMasterD3000&theme=radical&hide_border=true&bg_color=0D1117" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/KrostFR">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=KrostFR&theme=radical&hide_border=true&bg_color=0D1117" alt="Codeforces Stats" />
   </a>
 </div>
 ---
