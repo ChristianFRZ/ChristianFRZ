@@ -85,6 +85,8 @@ Design and implementation of relational databases, including normalization, SQL 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/christian-franco-ramírez-baa013360)
 [![Email](https://img.shields.io/badge/Email-555555?style=flat-square\&logo=gmail\&logoColor=white)](mailto:christian.francoramirez@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square\&logo=codeforces\&logoColor=white)](https://codeforces.com/profile/KrostFR)
+
 
 ---
 
