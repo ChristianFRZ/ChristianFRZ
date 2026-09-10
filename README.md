@@ -31,8 +31,9 @@ My experience includes software development, data analysis, databases, embedded 
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white)
+![SQL\*Plus](https://img.shields.io/badge/SQL*Plus-Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white)
+
 
 ---
 <div align="center">
