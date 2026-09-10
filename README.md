@@ -35,31 +35,11 @@ My experience includes software development, data analysis, databases, embedded 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 
 ---
-
-## Featured Projects
-
-### UNAM AeroDesign · Data Acquisition System
-
-Development of a **Data Acquisition System (DAS)** for aircraft applications, focused on acquiring, processing, transmitting, storing, and analyzing flight data.
-
-**Technologies:** STM32 · Sensors · LoRa · Python · Data Analysis
-
----
-
-### Flight Data Analysis
-
-Data processing and analysis for flight information, including visualization, signal processing, and anomaly detection.
-
-**Technologies:** Python · Pandas · NumPy · Matplotlib
-
----
-
-### Database Systems
-
-Design and implementation of relational databases, including normalization, SQL queries, triggers, and database architecture.
-
-**Technologies:** SQL · PostgreSQL · Database Design
-
+<div align="center">
+  <a href="https://codeforces.com/profile/KrostFR>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ZeusMasterD3000&theme=radical&hide_border=true&bg_color=0D1117" alt="Codeforces Stats" />
+  </a>
+</div>
 ---
 
 ## Currently Learning
